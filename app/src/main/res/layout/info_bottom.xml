@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/round_corners_new">
+
+    <TextView
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:layout_marginVertical="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Hey there! Welcome to Thought Tracker :D"/>
+
+    <TextView
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="As a fellow human being i was losing myself and becoming aloof lately so i developed the longing to observe and track my mental structure and perception i have about everything around me therefore i had decided to build this tiny two screen app to help me track my thoughts."/>
+    <TextView
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="14sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginVertical="12dp"
+        android:text="You can accompany me and i believe that's a great step towards awareness."/>
+    <TextView
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You can add topics which really mean something to you and on daily basis add thoughts to these topics genuinely without discrimination or prejudices."/>
+    <TextView
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="14sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="12dp"
+        android:text="I hope you would make benefit out of this application which i believe has substantial potential, good luck mate !"/>
+
+    <TextView
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="12dp"
+        android:text="PS : Be aware that the information stored here is on your device locally hence deleting the app would wipe all of it."/>
+
+
+    <TextView
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="2dp"
+        android:text="version : 1.0.0"/>
+
+</LinearLayout>

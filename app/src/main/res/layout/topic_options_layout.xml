@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="16dp"
+    android:paddingHorizontal="8dp"
+    android:paddingBottom="8dp"
+    android:background="@drawable/round_corners">
+
+    <TextView
+        android:id="@+id/addtopicid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add thought in topic"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:padding="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit topic"
+        android:textSize="14sp"
+        android:id="@+id/edittopicid"
+        android:textColor="@color/black"
+        android:padding="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete topic"
+        android:textSize="14sp"
+        android:id="@+id/deletetopicid"
+        android:textColor="@color/black"
+        android:padding="8dp"/>
+
+
+
+</LinearLayout>
